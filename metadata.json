@@ -1,0 +1,5 @@
+{
+  "name": "Kubernetes Canary Deployment Simulator",
+  "description": "An interactive web application to simulate and visualize a Kubernetes-based canary deployment strategy using K3s and Istio. Adjust traffic splitting, monitor real-time metrics, and manage the release lifecycle with promote or rollback actions.",
+  "requestFramePermissions": []
+}
